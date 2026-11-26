@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Deep Learning
+# Brain Tumor Detection
 
 ## Project Overview
 A Deep Learning project for classifying brain tumors from MRI images using Convolutional Neural Networks (CNN) and Transfer Learning with ResNet50.
